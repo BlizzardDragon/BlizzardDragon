@@ -11,7 +11,7 @@ I have been involved in game development on Unity for 2 years already, and games
 * ✉️  You can contact me at [blizzarddragon@list.ru](mailto:blizzarddragon@list.ru)
 * 🧠  I'm learning Multiplayer
 * 🤝  I'm open to collaborating on game development
-* ⚡  Getting ready to move to Mars
+* 🚀  I'm rooting for SpaceX
 
 ### Skills
 
