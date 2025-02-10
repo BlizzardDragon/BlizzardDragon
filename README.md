@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniil
 ==============================================================================================================================
 
 Unity Game Developer
 --------------------
 
-I have been involved in game development on Unity for 2 years already, and games have been one of my biggest hobbies since childhood.
+I have been involved in game development on Unity for 3 years already, and games have been one of my biggest hobbies since childhood.
 
 * 🌍  I'm based in Maykop
 * 🖥️  See my other projects on [YouTube](http://youtube.com/playlist?list=PLVxLs0fgVZqdecVEcE-_kneJIl-LvSTFF&si=7-DDe63l35pdJLgZ)
