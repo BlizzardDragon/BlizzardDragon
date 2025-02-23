@@ -7,7 +7,7 @@ Unity Game Developer
 I have been involved in game development on Unity for 3 years already, and games have been one of my biggest hobbies since childhood.
 
 * 🌍  I'm based in Maykop
-* 🖥️  See my portfolio on [Google Docs]([http://youtube.com/playlist?list=PLVxLs0fgVZqdecVEcE-_kneJIl-LvSTFF&si=7-DDe63l35pdJLgZ](https://docs.google.com/document/d/11REpdajWuE0wRWf2hh0gtXDoDizEC0cTIAa0IAXQzPs/edit?tab=t.0))
+* 🖥️  See my portfolio on [Google Docs]([http://youtube.com/playlist?list=PLVxLs0fgVZqdecVEcE-_kneJIl-LvSTFF&si=7-DDe63l35pdJLgZ](https://docs.google.com/document/d/11REpdajWuE0wRWf2hh0gtXDoDizEC0cTIAa0IAXQzPs/edit?tab=t.0)
 * ✉️  You can contact me at [blizzarddragon@list.ru](mailto:blizzarddragon@list.ru)
 * 🧠  I'm learning Multiplayer
 * 🤝  I'm open to collaborating on game development
